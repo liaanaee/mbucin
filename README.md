@@ -1,4 +1,4 @@
-########### jgn dibuka, malu bray. 
+ jgn dibuka, malu bray. 
 
 written by:
 # Demo Site
